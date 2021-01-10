@@ -1,2 +1,2 @@
 # website-engine
-The code for the engine powering my portfolio website.
+The code powering my portfolio website.
