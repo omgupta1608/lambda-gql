@@ -1,0 +1,26 @@
+{
+  "name": "website-engine",
+  "version": "1.0.0",
+  "description": "The code powering my portfolio website.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "netlify-lambda serve functions",
+    "build": "netlify-lambda build functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgupta1608/website-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omgupta1608/website-engine/issues"
+  },
+  "homepage": "https://github.com/omgupta1608/website-engine#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "netlify-lambda": "^2.0.2"
+  }
+}
