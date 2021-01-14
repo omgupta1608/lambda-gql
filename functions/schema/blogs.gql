@@ -1,0 +1,5 @@
+extend type Query {
+    getBlogs(): String!
+    getBlogById(ID: String!): String!
+}
+
